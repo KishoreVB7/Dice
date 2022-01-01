@@ -1,0 +1,60 @@
+body{
+    overflow: hidden;
+    background-color: black;
+}
+.area{
+    margin: 40px;
+}
+
+
+.otp{
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    vertical-align: middle;
+    margin: 40px
+}
+
+.view{
+    height: 300px;
+    width: 49%;
+    border: 2px solid burlywood;
+    display: inline-block;
+    text-align: center;
+}
+.name{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    text-align: center;
+    margin: 30px
+}
+
+.dice{
+    width: 100px;
+    height: 110px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 40px;
+    padding-top: 15px;
+    border-radius: 12px;
+    background-color: white;
+}
+
+.black{
+    background-color: black;
+}
+.dot{
+    height: 25px;
+    width: 25px;
+    border-radius: 51%;
+    display: inline-block;
+    margin: 1px;
+}
+.btn{
+    display: block;
+    height: 34px;
+    width: 91vw;
+    margin: 5px;
+    overflow: hidden;
+}
