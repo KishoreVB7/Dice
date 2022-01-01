@@ -1,5 +1,6 @@
 body{
     overflow: hidden;
+    background-color: black;
 }
 .area{
     margin: 40px;
@@ -7,6 +8,7 @@ body{
 
 
 .otp{
+    color: white;
     font-size: 2em;
     text-align: center;
     vertical-align: middle;
@@ -21,6 +23,7 @@ body{
     text-align: center;
 }
 .name{
+    color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2em;
     text-align: center;
@@ -35,6 +38,7 @@ body{
     margin-top: 40px;
     padding-top: 15px;
     border-radius: 12px;
+    background-color: white;
 }
 
 .black{
