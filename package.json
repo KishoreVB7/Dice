@@ -1,0 +1,23 @@
+{
+  "name": "dice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KishoreVB7/Dice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KishoreVB7/Dice/issues"
+  },
+  "homepage": "https://github.com/KishoreVB7/Dice",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
